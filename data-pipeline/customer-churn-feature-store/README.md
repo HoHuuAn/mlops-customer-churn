@@ -1,0 +1,1 @@
+```feast materialize-incremental (Get-Date -UFormat "%Y-%m-%dT%H:%M:%S")```

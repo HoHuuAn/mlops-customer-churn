@@ -1,0 +1,4 @@
+.venv
+data-pipeline/data/original/*
+data-pipeline/data/processed/*.csv
+data-pipeline/data/raw/train_period_*.csv
